@@ -1,0 +1,12 @@
+# Build files
+/build/
+/*.o
+/*.out
+/storage_engine
+
+# Logs
+logs/
+
+# Temporary
+*.swp
+*.tmp
